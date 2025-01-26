@@ -1,8 +1,10 @@
 # Hi 👋, I'm Ozair Khan  
 
-Welcome to my GitHub profile! I'm a dedicated and enthusiastic **Java Software Developer** with a strong foundation in backend and frontend technologies. I have a passion for creating efficient, scalable, and user-friendly solutions that make a difference.  
+Welcome to my GitHub profile! I'm a dedicated and enthusiastic **Java Software Developer** with a strong foundation in backend and frontend technologies.
+I have a passion for creating efficient, scalable, and user-friendly solutions that make a difference.  
 
-I specialize in **Java-based development** and have hands-on experience with frameworks, tools, and technologies that bring applications to life. My goal is to continuously learn and grow while contributing to impactful projects.  
+I specialize in **Java-based development** and have hands-on experience with frameworks, tools, and technologies that bring applications to life. 
+My goal is to continuously learn and grow while contributing to impactful projects.  
 
 ###
 **Skills:**
