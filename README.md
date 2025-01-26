@@ -7,7 +7,7 @@ I specialize in **Java-based development** and have hands-on experience with fra
 My goal is to continuously learn and grow while contributing to impactful projects.  
 
 ###
-**Skills:**
+**Languages and Tools:**
 
 <div align="left">
  
