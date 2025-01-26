@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ozair Khan  
+# Hi 👋, <span style="color: red;"> I'm Ozair Khan  </span>
 
 Welcome to my GitHub profile! I'm a dedicated and enthusiastic **Java Software Developer** with a strong foundation in backend and frontend technologies.
 I have a passion for creating efficient, scalable, and user-friendly solutions that make a difference.  
