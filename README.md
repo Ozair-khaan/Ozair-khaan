@@ -148,6 +148,12 @@ I'm a passionate **Tech Enthusiast 💻 😃** and a graduate student majoring i
     </td>
     <td align="center" width="96">
       <a href="#Ozair-khaan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="jQuery" />
+      </a>
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+      <a href="#Ozair-khaan">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
