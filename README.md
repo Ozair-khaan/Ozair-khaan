@@ -51,57 +51,75 @@ I'm a passionate **Tech Enthusiast 💻 😃** and a graduate student majoring i
   <tr>
   <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src="./icons/Java.png" width="48" height="48" alt="Java" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="./icons/SQL.png" width="48" height="48" alt="SQL" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="./icons/HTML.png" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="./icons/CSS.png" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan" >
-        <img src="./icons/Sass.png" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="./icons/JS.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="./icons/Typescript.png" width="48" height="48" alt="Typescript" />
-      </a>
-      <br>Typescript
     </td>
     <td align="center" width="96">
       <a href="#Ozair-khaan" >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
       </a>
-      <br>Python
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <a href="#Ozair-khaan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="#Ozair-khaan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#Ozair-khaan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#Ozair-khaan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#Ozair-khaan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
     </td>
     <td align="center"  width="96">
       <a href="#Ozair-khaan">
-        <img src="./icons/Oracle.png" width="48" height="48" alt="Oracle" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
       </a>
-      <br>Dart
+      <br>Oralce
+    </td>
+    <td align="center"  width="96">
+      <a href="#Ozair-khaan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+      <a href="#Ozair-khaan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="gitlab" />
+      </a>
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+      <a href="#Ozair-khaan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="git" />
+      </a>
+      <br>GitHub
+    </td>
+     <td align="center"  width="96">
+      <a href="#Ozair-khaan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
     </td>
   </tr>
 </table>
@@ -112,51 +130,27 @@ I'm a passionate **Tech Enthusiast 💻 😃** and a graduate student majoring i
 
 <table>
   <tr>
-    <td align="center" width="96" margin="10">
-      <a href="#Ozair-khaan">
-        <img src="./icons/React.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
     <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src="./icons/Tailwind-CSS.png" width="48" height="48" alt="Tailwind-CSS" />
-      </a>
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="./icons/HTML.png" width="48" height="48" alt="HTML" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src="./icons/CSS.png" width="48" height="48" alt="CSS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src="./icons/JS.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src="./icons/Typescript.png" width="48" height="48" alt="Typescript" />
-      </a>
-      <br>Typescript
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="./icons/Material-UI.png" width="48" height="48" alt="Material-UI" />
-      </a>
-      <br>Material UI
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan" >
-        <img src="./icons/Bootstrap.png" width="48" height="48" alt="Bootstrap" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
@@ -171,22 +165,30 @@ I'm a passionate **Tech Enthusiast 💻 😃** and a graduate student majoring i
   <tr>
     <td align="center" width="96" margin="10">
       <a href="#Ozair-khaan">
-        <img src="./icons/java.png" width="48" height="48" alt="Java" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>NodeJS
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src="./icons/spring-boot.png" width="48" height="48" alt="Spring Boot" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
       </a>
-      <br>ExpressJS
+      <br>Spring Boot
     </td>
     <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src="./icons/jpa-repository.png" width="48" height="48" alt="JPARepository" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"" width="48" height="48" alt="Hibernate" />
       </a>
-      <br>Firebase
+      <br>Hibernate
     </td>
+
+    <td align="center" width="96">
+      <a href="#Ozair-khaan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"" width="48" height="48" alt="JPARepository" />
+      </a>
+      <br>DSA
+    </td>
+
   </tr>
 </table>
 
@@ -198,19 +200,19 @@ I'm a passionate **Tech Enthusiast 💻 😃** and a graduate student majoring i
   <tr>
     <td align="center" width="96" margin="10">
       <a href="#Ozair-khaan">
-        <img src="./icons/oracle.png" width="48" height="48" alt="Oracle" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
       </a>
-      <br>MongoDB
+      <br>Oracle
     </td>
     <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src="./icons/Postgresql.png" width="48" height="48" alt="Postgresql" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="Postgresql" />
       </a>
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src="./icons/mysql.png" width="48" height="48" alt="mysql" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
       </a>
       <br>MySQL
     </td>
@@ -225,22 +227,35 @@ I'm a passionate **Tech Enthusiast 💻 😃** and a graduate student majoring i
   <tr>
     <td align="center" width="96" margin="10">
       <a href="#Ozair-khaan">
-        <img src="./icons/Amazon-Web-Services.png" width="48" height="48" alt="Amazon-Web-Services" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="48" height="48" alt="Amazon-Web-Services" />
       </a>
       <br>AWS
     </td>
     <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src="./icons/Jenkins.png" width="48" height="48" alt="Jenkins" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg" width="48" height="48" alt="Jenkins" />
       </a>
       <br>Jenkins
     </td>
     <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src="./icons/Kubernetes.png" width="48" height="48" alt="Kubernetes" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
+    <td align="center" width="96">
+      <a href="#Ozair-khaan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="48" height="48" alt="BitBucket" />
+      </a>
+      <br>Bit Bucket
+    </td>
+    <td align="center" width="96">
+      <a href="#Ozair-khaan">
+        <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+   
   </tr>
 </table>
 
@@ -252,15 +267,9 @@ I'm a passionate **Tech Enthusiast 💻 😃** and a graduate student majoring i
   <tr>
   <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src="./icons/jpa-repository.png" width="48" height="48" alt="Prisma" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="48" height="48" alt="Hibernate/JPA" />
       </a>
-      <br>JPA
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="./icons/hibernate.png" width="48" height="48" alt="Hibernate" />
-      </a>
-      <br>Mongoose
+      <br>Hibernate/JPA
     </td>
   </tr>
 </table>
