@@ -181,10 +181,9 @@ I'm a passionate **Tech Enthusiast 💻 😃** and a graduate student majoring i
       </a>
       <br>Hibernate
     </td>
-
     <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"" width="48" height="48" alt="JPARepository" />
+        <img src="https://cdn.jsdelivr.net/gh/ozairkhaan/tech-icons@v1.0.0/icons/dsa.svg"" width="48" height="48" alt="JPARepository" />
       </a>
       <br>DSA
     </td>
