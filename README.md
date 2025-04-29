@@ -6,8 +6,6 @@
   <a href="https://github.com/Ozair-khaan">
     <img src="https://komarev.com/ghpvc/?username=Ozair-khaan" alt="page views" />
   </a>
-  <a href="https://stackoverflow.com/users/22878781">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/22878781?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/Ozair-khaan?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ozair-khaan?color=green&logo=github">
