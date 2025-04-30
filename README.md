@@ -254,7 +254,7 @@ I'm a passionate **Tech Enthusiast 💻 😃** and a graduate student majoring i
     </td>
     <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
