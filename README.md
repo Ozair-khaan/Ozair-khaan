@@ -187,7 +187,7 @@ I'm a passionate **Tech Enthusiast 💻 😃** and a graduate student majoring i
     </td>
     <td align="center" width="96">
       <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/ozairkhaan/tech-icons@v1.0.0/icons/dsa.svg"" width="48" height="48" alt="DSA" />
+        <img src="https://cdn.jsdelivr.net/gh/abanoubamgadnsary/Bootstrap-web@main/dsa.svg"" width="48" height="48" alt="DSA" />
       </a>
       <br>DSA
     </td>
