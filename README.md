@@ -120,13 +120,12 @@ I am a Software Engineer based in Mumbai, India, with a strong track record of a
 
 ## 🚀 Featured Projects
 
-<!-- IMPORTANT: Replace REPO_NAME_1 and Bank-Management-System with your actual GitHub repository names! -->
 <div align="center">
   <a href="https://github.com/Ozair-khaan/SnapKart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ozair-khaan&repo=SnapKart&theme=tokyonight&show_icons=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ozair-khaan&repo=SnapKart&theme=tokyonight&show_icons=true&v=1" width="48%" />
   </a>
   <a href="https://github.com/Ozair-khaan/Bank-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ozair-khaan&repo=Bank-Management-System&theme=tokyonight&show_icons=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ozair-khaan&repo=Bank-Management-System&theme=tokyonight&show_icons=true&v=1" width="48%" />
   </a>
 </div>
 <br/>
@@ -135,18 +134,18 @@ I am a Software Engineer based in Mumbai, India, with a strong track record of a
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ozair-khaan&theme=tokyonight&margin-w=15" alt="Ozair's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Ozair-khaan&theme=tokyonight&margin-w=15&v=1" alt="Ozair's Trophies" />
   </a>
 </div>
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ozair-khaan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ozair's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ozair-khaan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=1" alt="Ozair's Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ozair-khaan&theme=tokyonight&hide_border=true" alt="Ozair's Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozair-khaan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozair-khaan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&v=1" alt="Top Langs" width="48%" />
 </div>
 
 <br/>
