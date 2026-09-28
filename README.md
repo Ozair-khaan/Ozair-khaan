@@ -1,290 +1,167 @@
-<img width="30px" margin="0px" src="./icons/Hi.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Ozair%20Khan&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer&descAlignY=60&descAlign=50&fontColor=ffffff" />
 
-<h1 align="left" id="OzairKhan-title">Hello, I'm <a href="https://github.com/Ozair-khaan/Ozair-khaan">Ozair Khan</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1 align="center">Hi 👋, I'm Ozair Khan</h1>
+<h3 align="center">Backend Software Engineer | Microservices & IAM | Open to Global Relocation 🌍</h3>
 
-<p align="left">
-  <a href="https://github.com/Ozair-khaan">
-    <img src="https://komarev.com/ghpvc/?username=Ozair-khaan" alt="page views" />
+<p align="center">
+  <a href="https://portfolio-flame-iota-79.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  </a>
-  <a href="https://github.com/Ozair-khaan?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ozair-khaan?color=green&logo=github">
+  <a href="https://www.linkedin.com/in/ozair-khaan/" target="_blank">
+    <img src="https://img.shields.io/badge/🤝_Hire_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me" />
   </a>
 </p>
 
-## About Me 🚀
+<p align="center">
+  <a href="https://github.com/Ozair-khaan">
+    <img src="https://komarev.com/ghpvc/?username=Ozair-khaan&style=flat-square&color=blue" alt="page views" />
+  </a>
+  <a href="https://github.com/Ozair-khaan?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ozair-khaan?color=green&logo=github&style=flat-square">
+  </a>
+</p>
 
-I'm a passionate **Tech Enthusiast 💻 😃** and a graduate student majoring in Information Technology at [SPPU – Savitribai Phule Pune University 🅾️](http://www.unipune.ac.in/). I thrive on learning and enjoy building innovative products that serve a meaningful purpose.
+<p align="center">
+  <a href="mailto:ozairkhantech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/ozair-khaan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/Ozair_Khaan/"><img src="https://img.shields.io/badge/-Leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://www.hackerrank.com/profile/ozairkhantech"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://x.com/iamozr"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
 
-### 📬 Find me at
+<br/>
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Ozair-khaan)](https://github.com/Ozair-khaan)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ozair-khaan/)](https://www.linkedin.com/in/ozair-khaan/)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/ozairkhantech)](https://www.hackerrank.com/profile/ozairkhantech)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ozairkhantech@gmail.com)](mailto:ozairkhantech@gmail.com)
-[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/Ozair_Khaan/)](https://leetcode.com/u/Ozair_Khaan/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ozair_khaan)](https://instagram.com/ozair_khaan)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/iamozr)](https://x.com/iamozr)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/iamozr/)](https://www.facebook.com/iamozr/)
+## 🚀 About Me
 
-## Quick Facts ⚡️
+I am a Software Engineer based in Mumbai, India, with a strong track record of architecting scalable backend systems across **FinTech, Healthcare, and Enterprise Software**. I hold a Master's (MBA) in Information Technology and a Bachelor's in Computer Applications from SPPU.
 
-- 🔭 I’m currently working as a Java Software Developer at **[@ Kiya.ai (Previously known as - Infrasoft Technology) 🅾️](https://www.kiya.ai/)**
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on
-  - 📊 Web Development using **Java, Spring Boot, Micro-Services, Oracle, SQL**
-  - 📱 Web based Apps Development using **JavaScript/jQuery**
-  - 📊 DevOps stuff using **AWS, Docker, Jenkins, Kubernetes**
-  - 🤖 Keen to **ML (Machine Learning)**
-- 📫 How to reach me: **[Mail](mailto:ozairkhantech@gmail.com)**
-- 📙 Check out my **[Resume](https://www.linkedin.com/in/ozair-khaan/)**
-- 💬 Ping me about **Web Development**, **App Development** **DevOps**, **Machine Learning**, **Competitive Programming**, **Open Source**
+- 🏦 **Domain Expertise:** FinTech (SWIFT MT700, Payment Processing), Enterprise Software.
+- 🔐 **Core Strengths:** Identity & Access Management (Keycloak, OAuth2, JWT), Workflow Orchestration (Activiti BPMN 2.0).
+- 🌱 **Currently Exploring:** Advanced Machine Learning (ML) integrations.
+- 🌍 **Global Mobility:** Highly adaptable and actively open to global relocation (Middle East, Europe, APAC).
 
-## Tech Stack 💻
+<br/>
 
-### Languages 🚀
+## 💻 Tech Stack
 
-> I'm proficient in various languages, including:
-
-<table>
-  <tr>
-  <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
-      </a>
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
-      </a>
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center"  width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
-      </a>
-      <br>Oralce
-    </td>
-    <td align="center"  width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="gitlab" />
-      </a>
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="git" />
-      </a>
-      <br>GitHub
-    </td>
-     <td align="center"  width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-  </tr>
-</table>
-
-### Frontend 🎨
-
-> I specialize in Frontend technologies like:
+### 🚀 Languages & Core
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br>Java
     </td>
     <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" /><br>Spring Boot
     </td>
     <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /><br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="jQuery" />
-      </a>
-      <br>jQuery
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /><br>CSS
     </td>
     <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" /><br>Bootstrap
     </td>
   </tr>
 </table>
 
-### Backend 🌐
-
-> I specialize in Backend services like:
+### 🌐 Backend & Databases
 
 <table>
   <tr>
-    <td align="center" width="96" margin="10">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="48" height="48" alt="Hibernate" /><br>Hibernate
     </td>
     <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
-      </a>
-      <br>Spring Boot
+      <img src="https://cdn.jsdelivr.net/gh/abanoubamgadnsary/Bootstrap-web@main/dsa.svg" width="48" height="48" alt="DSA" /><br>DSA
     </td>
     <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"" width="48" height="48" alt="Hibernate" />
-      </a>
-      <br>Hibernate
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" /><br>Oracle DB
     </td>
     <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/abanoubamgadnsary/Bootstrap-web@main/dsa.svg"" width="48" height="48" alt="DSA" />
-      </a>
-      <br>DSA
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
     </td>
-
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>MySQL
+    </td>
   </tr>
 </table>
 
-### Databases 🛢️
-
-> I work with various databases, including:
+### ☁️ DevOps & Tools
 
 <table>
   <tr>
-    <td align="center" width="96" margin="10">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
-      </a>
-      <br>Oracle
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="48" height="48" alt="AWS" /><br>AWS
     </td>
     <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="Postgresql" />
-      </a>
-      <br>PostgreSQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
-      </a>
-      <br>MySQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" /><br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg" width="48" height="48" alt="Jenkins" /><br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux
     </td>
   </tr>
 </table>
 
-## DevOps 🚀
+<br/>
 
-> In the DevOps realm, I use services like:
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="96" margin="10">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="48" height="48" alt="Amazon-Web-Services" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg" width="48" height="48" alt="Jenkins" />
-      </a>
-      <br>Jenkins
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="48" height="48" alt="BitBucket" />
-      </a>
-      <br>Bit Bucket
-    </td>
-    <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-   
-  </tr>
-</table>
+<!-- IMPORTANT: Replace REPO_NAME_1 and Bank-Management-System with your actual GitHub repository names! -->
+<div align="center">
+  <a href="https://github.com/Ozair-khaan/SnapKart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ozair-khaan&repo=SnapKart&theme=tokyonight&show_icons=true" width="48%" />
+  </a>
+  <a href="https://github.com/Ozair-khaan/Bank-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ozair-khaan&repo=Bank-Management-System&theme=tokyonight&show_icons=true" width="48%" />
+  </a>
+</div>
+<br/>
 
-### ORM Tools 🛠️
+## 📈 GitHub Analytics
 
-> I leverage ORM tools such as:
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ozair-khaan&theme=tokyonight&margin-w=15" alt="Ozair's Trophies" />
+  </a>
+</div>
+<br/>
 
-<table>
-  <tr>
-  <td align="center" width="96">
-      <a href="#Ozair-khaan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="48" height="48" alt="Hibernate/JPA" />
-      </a>
-      <br>Hibernate/JPA
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ozair-khaan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ozair's Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ozair-khaan&theme=tokyonight&hide_border=true" alt="Ozair's Streak" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozair-khaan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" width="48%" />
+</div>
 
-## DevSetup 🖥️
+<br/>
+<hr>
 
-<img src="https://img.shields.io/badge/Git-555555.svg?&style=flat-square&logo=Git&logoColor=0078D6"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Android Studio-555555?style=flat-square&logo=android-studio&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Anaconda-555555.svg?&style=flat-square&logo=anaconda&logoColor=44A833"> <img src="https://img.shields.io/badge/PyCharm-555555.svg?&style=flat-square&logo=pycharm&logoColor=black"> <img src="https://img.shields.io/badge/IntelliJ-555555.svg?&style=flat-square&logo=intellij-idea&logoColor=black"> <img src="https://img.shields.io/badge/Postman-555555.svg?&style=flat-square&logo=postman&logoColor=FF6C37"> <img src="https://img.shields.io/badge/Notion-555555.svg?&style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=ubuntu&logoColor=E95420"> <img src="https://img.shields.io/badge/Canva-555555.svg?&style=flat-square&logo=canva&logoColor=white">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ozair-khaan/Ozair-khaan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ozair-khaan/Ozair-khaan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ozair-khaan/Ozair-khaan/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-## Most Used Languages 📈
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozair-khaan&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)](https://github.com/Ozair-khaan)
-
-## Github Stats 📊
-
-![Ozair Khan's Stats](https://github-readme-stats.vercel.app/api?username=Ozair-khaan&theme=default&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <i>"The more that you read, the more things you will know. The more that you learn, the more places you'll go."</i>
+  <br><br>
+  <b>Let's build something amazing together! 🚀</b>
+</div>
